@@ -849,6 +849,7 @@
 
 				.gallery .content .media a {
 					display: block;
+
 				}
 
 				.gallery .content .media img {
@@ -1469,7 +1470,7 @@
 		height: 75vh;
 		position: relative;
 		background: #000;
-		background-image: url(../../images/hindsight.png);
+		background-image: url(../../images/logo.png);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
