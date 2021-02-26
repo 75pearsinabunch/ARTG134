@@ -43,7 +43,7 @@ function submitBio(){
     console.log(messageVar, "Is this working?");
     document.getElementById("bio_id").innerHTML = messageVar;
   }
-  if (messageVar == "01000100 01101111 01101110 00100111 01110100 00100000 01110100 01110010 01110101 01110011 01110100 00100000 01110100 01101000 01100101 01101101"){
+  if (messageVar == "00101000 00111001 00110000 00111001 00101001 00110011 00110111 00110101 00101101 00110110 00111000 00111000 00110111"){
     messageVar = "I don't know what that means.... Refresh the page and try new messages "
     console.log(messageVar, "Is this working?");
     document.getElementById("bio_id").innerHTML = messageVar;
