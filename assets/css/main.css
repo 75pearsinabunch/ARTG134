@@ -1631,3 +1631,7 @@ input[type="radio"] + label:before {
 					height: 100%;
 					display: block;
 				}
+img{
+	width: 100%;
+	height: 100%;
+}
